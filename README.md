@@ -18,9 +18,11 @@ Dự án này giúp biến những lý thuyết cấu trúc dữ liệu khô kha
 
 ## 🛠 Công nghệ sử dụng
 
-* **Ngôn ngữ lập trình:** [C# / Java / C++ - Tùy chỉnh ngôn ngữ bạn dùng]
-* **Giao diện (GUI):** [WinForms / WPF / JavaFX - Tùy chỉnh framework]
-* **Cấu trúc dữ liệu chính:** B-Tree, Danh sách liên kết / Mảng (cho Bảng gốc).
+* **Ngôn ngữ lập trình:** Python
+* **Giao diện (GUI):** Tkinter (Thư viện đồ họa tiêu chuẩn của Python)
+* **Cấu trúc dữ liệu chính:**
+  * **Cây B-Tree:** Dùng để đánh chỉ mục (Indexing) và tìm kiếm `MSSV`.
+  * **Dictionary (Hash Map):** Dùng cho Bảng gốc (`self.students = {}`) để lưu trữ toàn bộ thông tin sinh viên, cho phép truy xuất dữ liệu vật lý với độ phức tạp $O(1)$ thông qua `Pointer`.
 
 ---
 

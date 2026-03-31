@@ -28,4 +28,4 @@ Dự án này giúp biến những lý thuyết cấu trúc dữ liệu khô kha
 
 1. Clone repository này về máy:
    ```bash
-   git clone [https://github.com/](https://github.com/)[Tên-Tài-Khoản-Của-Bạn]/[Tên-Repo-Của-Bạn].git
+   git clone https://github.com/UIT24521217VoCaoNguyen7/CS112_UIT.git
